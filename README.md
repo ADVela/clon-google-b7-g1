@@ -1,4 +1,4 @@
-# Mi portafolio de habilidades TECNOLOCHICAS PRO  💜🐱
+# Clon de Google  💜🐱
 
 El presente proyecto es un clon de Google desarrollado para poner en practica las habilidades obtenidas dentro del bootcamp
 de desarollo fronted de Tecnolochicas PRO.
